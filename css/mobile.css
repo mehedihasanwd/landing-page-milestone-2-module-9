@@ -1,0 +1,10 @@
+/* Responsiveness */
+
+/* Large Screen - 1040px */
+
+@media (max-width: 1040px) {
+  .container {
+    width: 80%;
+    margin: auto;
+  }
+}
